@@ -1,0 +1,57 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Temporary files
+*.bak
+*.swp
+*~
+*.tmp
+
+# Python-specific (for presentations like Numerical Methods in Python)
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.ipynb_checkpoints/
+
+# Jupyter Notebooks metadata (if used in Python presentations)
+*.ipynb_checkpoints
+
+# Common build artifacts
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Logs and caches
+*.log
+*.cache
+.cache/
+.pytest_cache/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ensure presentation files and core documents are NOT ignored
+!*.pdf
+!*.md
+!LICENSE
+!README.md
+!Dynamical_Systems/
+!Neuroscience/
+!Optimization/
+!Numerical_Methods/
+!Philosophy_of_Mathematics/
