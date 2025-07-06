@@ -5,6 +5,10 @@ This repository hosts a curated collection of my academic and professional prese
 ## Presentations
 
 ### Neuroscience
+- **[LGN Neural Models (May 2025)](https://github.com/MNMMOoN/Presentations/blob/main/neuroscience/lgn_hh_models.pdf)**  
+  Presents mathematical modeling of the lateral geniculate nucleus (LGN), focusing on:  
+  - Thalamocortical relay cells and interneurons  
+  - Integrate-and-Fire and Hodgkin–Huxley models for both cell types
 - **[A Handful of Mathematical Models in Neuroscience (May 2025)](https://github.com/MNMMOoN/Presentations/blob/main/neuroscience/hh_model.pdf)**  
   Explores mathematical models for understanding neural systems: 
   - Hodgkin–Huxley Model 
